@@ -1,2 +1,0 @@
-# web
-Laboratorio Informatica
